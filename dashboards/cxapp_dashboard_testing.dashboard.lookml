@@ -3,6 +3,7 @@ title: "CXApp Sales Dashboard"
 layout: newspaper
 preferred_viewer: dashboards-next
 tile_size: 100
+model: ps_dashboard_testing
 
 filters: {
   name: order_date_filter, # <-- ADDED COMMA
